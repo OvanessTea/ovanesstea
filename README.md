@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Edurad and I am a frontend developer from Slovenia. I create SPA applications with React | Next.JS | TS. I’m studying to become a FullStack developer</p>
+<p align="left">My name is Edurad and I am a software developer from Slovenia. I create fullstack applications with React | Next.JS | TS | Express | Node.js.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing since 2020<br>📚 I'm currently learning NodeJS | Express, Testing libs and so on<br>🎯 Goals: Realize your hidden potential and become a professional practitioner</p>
+<p align="left">✨ Developing since 2020<br>🎯 Goals: Realize my hidden potential and become a professional practitioner</p>
 
 ###
 
